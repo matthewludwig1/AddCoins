@@ -1,6 +1,7 @@
 /*
   Matthew Ludwig
   18 March 2019
+  This program calculates the total amount of money, from a specific amount of coins
  */
 
 package addcoins;
