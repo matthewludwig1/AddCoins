@@ -1,12 +1,12 @@
 # AddCoins
-~Uses a scanner to accept user input~
-Main: 
+Uses a scanner to accept user input:
+Main {
   Enter the amount of coins
     Loonies:   //excluding pennies
     Quarters:
     Dimes:
     Nickles:
-  Print getDollarAmount(user input)
+  Print getDollarAmount(user input) }
 
 Public double getDollarAmount:
   Set the initial value equal to zero
