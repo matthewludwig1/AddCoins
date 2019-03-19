@@ -6,7 +6,7 @@ Main:
     Quarters:
     Dimes:
     Nickles:
-  Print getDollarAmount(@param)
+  Print getDollarAmount(user input)
 
 Public double getDollarAmount:
   Set the initial value equal to zero
