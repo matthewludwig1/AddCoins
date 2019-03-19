@@ -1,5 +1,5 @@
 # AddCoins
-<Uses a scanner to accept user input>
+~Uses a scanner to accept user input~
 Main: 
   Enter the amount of coins
     Loonies:   //excluding pennies
