@@ -8,7 +8,7 @@ Main {
     Nickles:
   Print getDollarAmount(user input) }
 
-Public double getDollarAmount:
+Create a public method called getDollarAmount():
   Set the initial value equal to zero
   Multiply the amount of coins by their respective value
   Add this amount to the total
